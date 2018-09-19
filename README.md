@@ -1,4 +1,4 @@
-## Dataquest-ExploreUSBirths
+## Dataquest.io - Guided Project: Explore U.S. Births
 Instructions from Dataquest.io for exercises corresponding to "Guided Project: Explore U.S. Births". In the Jupyter and Python code attached you will find **my** solution to the exercises. There are many ways to solve the problems, these were my attempts.
 
 ### 1: Introduction to Dataset
