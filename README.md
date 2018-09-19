@@ -1,5 +1,5 @@
 ## Dataquest-ExploreUSBirths
-Instructions from Dataquest.io for exercises corresponding to "Guided Project: Explore U.S. Births". In the Jupyter and Python code attached you will find **my** solution to the exercises. There is many ways to solve the problems, these were my attempts.
+Instructions from Dataquest.io for exercises corresponding to "Guided Project: Explore U.S. Births". In the Jupyter and Python code attached you will find **my** solution to the exercises. There are many ways to solve the problems, these were my attempts.
 
 ### 1: Introduction to Dataset
 1. Read the CSV file "US_births_1994-2003_CDC_NCHS.csv" into a string.
